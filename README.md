@@ -1,14 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MrJoplinMV/fb12b498bc10bd87227b345f53d1d3fa/raw/de5bd2c934c0374a0e5f4b47292f32fb6f7ed434/Joplingitcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Erik!</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MrJoplinMV&color=yellow" alt="Profile views" /> </p>
 
-[![Typing SVG](https://readme-typingsvg.herokuapp.com/color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Erik;I'm+17+years+old;I+from+Brasil,+MG;I'm+a+Programming+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+- 💻 Student of programming and technical support in systems.
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MrJoplinMV&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJoplinMV&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+- 👨‍💻 I’m currently working at [Softcom Tecnologia](https://softcomtecnologia.com.br/)
 
+<br><br>
 
-### Main skills:
+## 🛠 &nbsp;Tech Stack
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,21 +18,24 @@
 ![ACCESS](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-### Design:
-![LIGHTROOM](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![PREMIERE](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+<br><br>
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
-![NOTION](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+## Contact
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MrJoplinMV}/count.svg" /></p> 
-<br></div>
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer">
+<a href="https://www.linkedin.com/in/erik-martins-122425279" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Erik Martins-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/erikmartinsjp" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-erikmartinsjp-05122A?style=flat&logo=instagram" alt="instagram"/>
+</p>
+
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MrJoplinMV&show_icons=true&theme=tokyonight" alt="Joplin's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJoplinMV&layout=compact&theme=tokyonight" alt="Joplin's most languages"/>
+</p>
+-->
