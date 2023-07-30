@@ -1,10 +1,12 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MrJoplinMV/fb12b498bc10bd87227b345f53d1d3fa/raw/de5bd2c934c0374a0e5f4b47292f32fb6f7ed434/Joplingitcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MrJoplinMV/2cc2f42d465621f3c553827a09f770b2/raw/5716f59bb01b01601861e16d5fb35af8c82364f6/Joplingitcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Erik!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MrJoplinMV&color=yellow" alt="Profile views" /> </p>
 
 - 💻 Student of programming and technical support in systems.
 
-- 👨‍💻 I’m currently working at [Softcom Tecnologia](https://softcomtecnologia.com.br/)
+- 👨‍💻 I’m currently working at [Softcom Tecnologia](https://softcomtecnologia.com.br/)!
+
+- Im 17 years old and I intend to study Computer Science in the future.
 
 <br><br>
 
