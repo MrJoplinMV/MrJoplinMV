@@ -37,7 +37,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MrJoplinMV&show_icons=true&theme=tokyonight" alt="Joplin's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrJoplinMV&layout=compact&theme=tokyonight" alt="Joplin's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MrJoplinMV&show_icons=true&theme=dracula" alt="Joplin's stats"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrJoplinMV&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 -->
